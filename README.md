@@ -1,5 +1,5 @@
-# [** Google Sheets Clone **](https://zargk93ncp6wcinz.vercel.app/)
-
+# [**Google Sheets Clone**](https://zargk93ncp6wcinz.vercel.app/)
+# LINK: https://zargk93ncp6wcinz.vercel.app/
 ## Overview
 This project is a Google Sheets clone built with Next.js, React, and TypeScript. It replicates core features of Google Sheets, providing a functional spreadsheet interface with modern web technologies. The application is designed to showcase advanced web development skills in both frontend and backend development.
 
